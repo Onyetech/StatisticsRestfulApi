@@ -1,8 +1,6 @@
 package com.ikenna.statisticsrestfulapi.model;
 
 public enum ErrorCodes {
-    // something here
-
 
     MISSING_PARAMETER_AMOUNT(422, "Parameter missing - amount"),
     MISSING_PARAMETER_TIMESTAMP(422, "Parameter missing - timestamp"),
