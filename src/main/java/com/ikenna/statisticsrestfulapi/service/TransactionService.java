@@ -1,6 +1,6 @@
-package com.icodeshivam.statistics.service;
+package com.ikenna.statisticsrestfulapi.service;
 
-import com.icodeshivam.statistics.model.Transaction;
+import com.ikenna.statisticsrestfulapi.model.Transaction;
 
 public interface TransactionService {
 

@@ -1,8 +1,8 @@
-package com.icodeshivam.statistics.service;
+package com.ikenna.statisticsrestfulapi.service;
 
-import com.icodeshivam.statistics.model.Statistics;
-import com.icodeshivam.statistics.model.StatsInternal;
-import com.icodeshivam.statistics.model.Transaction;
+import com.ikenna.statisticsrestfulapi.model.Statistics;
+import com.ikenna.statisticsrestfulapi.model.StatsInternal;
+import com.ikenna.statisticsrestfulapi.model.Transaction;
 import org.springframework.stereotype.Service;
 
 import java.time.Instant;

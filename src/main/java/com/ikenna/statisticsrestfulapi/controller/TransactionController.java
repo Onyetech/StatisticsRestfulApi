@@ -1,8 +1,8 @@
-package com.icodeshivam.statistics.controller;
+package com.ikenna.statisticsrestfulapi.controller;
 
-import com.icodeshivam.statistics.exception.ValidationException;
-import com.icodeshivam.statistics.model.Transaction;
-import com.icodeshivam.statistics.service.TransactionService;
+import com.ikenna.statisticsrestfulapi.exception.ValidationException;
+import com.ikenna.statisticsrestfulapi.model.Transaction;
+import com.ikenna.statisticsrestfulapi.service.TransactionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

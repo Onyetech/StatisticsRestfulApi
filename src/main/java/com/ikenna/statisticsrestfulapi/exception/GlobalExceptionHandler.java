@@ -1,7 +1,7 @@
-package com.icodeshivam.statistics.exception;
+package com.ikenna.statisticsrestfulapi.exception;
 
-import com.icodeshivam.statistics.model.ErrorCodes;
-import com.icodeshivam.statistics.model.ErrorResponse;
+import com.ikenna.statisticsrestfulapi.model.ErrorCodes;
+import com.ikenna.statisticsrestfulapi.model.ErrorResponse;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;

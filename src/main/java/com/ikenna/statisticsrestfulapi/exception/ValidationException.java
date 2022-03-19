@@ -1,6 +1,6 @@
-package com.icodeshivam.statistics.exception;
+package com.ikenna.statisticsrestfulapi.exception;
 
-import com.icodeshivam.statistics.model.ErrorCodes;
+import com.ikenna.statisticsrestfulapi.model.ErrorCodes;
 
 public class ValidationException extends RuntimeException {
     private Integer errorCode;

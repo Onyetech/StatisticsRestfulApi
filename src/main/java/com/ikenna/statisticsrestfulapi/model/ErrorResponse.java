@@ -1,4 +1,4 @@
-package com.icodeshivam.statistics.model;
+package com.ikenna.statisticsrestfulapi.model;
 
 public class ErrorResponse {
     private Integer errorCode;
